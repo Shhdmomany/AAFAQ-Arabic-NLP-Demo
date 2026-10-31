@@ -1,0 +1,9 @@
+artifacts/
+__pycache__/
+*.pyc
+.env
+*.ipynb_checkpoints/
+# data: add only if you are allowed to share it
+AAFAQ_Dataset.csv
+processed_*.csv
+*translated*.csv
